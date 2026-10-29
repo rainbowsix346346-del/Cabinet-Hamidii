@@ -3,7 +3,9 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/Cabinet-Hamidii/',
+  // Use a relative public path so the built site loads correctly on GitHub Pages
+  // for project sites like https://<user>.github.io/Cabinet-Hamidii/
+  base: './',
   server: {
     port: 3000,
     host: '0.0.0.0',
