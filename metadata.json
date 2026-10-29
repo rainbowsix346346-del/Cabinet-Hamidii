@@ -1,0 +1,6 @@
+{
+  "name": "کابینت حمیدی",
+  "description": "طراحی، ساخت و نصب کابینت و کمد دیواری سفارشی در اهواز و خوزستان.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
