@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" role="img" aria-label="تماس با ما">
+  <rect width="192" height="192" rx="32" fill="#f7f3ee"/>
+  <rect x="36" y="46" width="120" height="96" rx="18" fill="#7c4d2f" opacity="0.9"/>
+  <path d="M62 76h68M62 96h52" stroke="#f7f3ee" stroke-width="8" stroke-linecap="round"/>
+  <path d="M62 122h38" stroke="#f7f3ee" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="126" cy="122" r="12" fill="#f7f3ee"/>
+</svg>
