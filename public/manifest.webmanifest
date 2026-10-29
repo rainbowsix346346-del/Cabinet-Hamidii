@@ -8,13 +8,20 @@
   "start_url": "/",
   "id": "/",
   "display": "standalone",
-  "display_override": ["window-controls-overlay", "standalone", "minimal-ui"],
+  "display_override": [
+    "window-controls-overlay",
+    "standalone",
+    "minimal-ui"
+  ],
   "orientation": "portrait-primary",
   "background_color": "#f7f3ee",
   "theme_color": "#7c4d2f",
-  "categories": ["business", "shopping", "home"],
+  "categories": [
+    "business",
+    "shopping",
+    "home"
+  ],
   "prefer_related_applications": false,
-  "related_applications": [],
   "icons": [
     {
       "src": "/icons/icon-72.png",
@@ -85,14 +92,14 @@
   ],
   "screenshots": [
     {
-      "src": "/public/assets/aistudio/Screenshot_2026-10-30-01-52-22-629_com.android.chrome_4feaa5b6.jpg",
+      "src": "/assets/aistudio/Screenshot_2026-10-30-01-52-22-629_com.android.chrome_4feaa5b6.jpg",
       "sizes": "1280x720",
       "type": "image/jpeg",
       "form_factor": "wide",
       "label": "صفحه اصلی و معرفی خدمات کابینت حمیدی"
     },
     {
-      "src": "/public/assets/aistudio/Screenshot_2026-10-30-01-52-25-033_com.android.chrome_858521c7.jpg",
+      "src": "/assets/aistudio/Screenshot_2026-10-30-01-52-25-033_com.android.chrome_858521c7.jpg",
       "sizes": "720x1280",
       "type": "image/jpeg",
       "form_factor": "narrow",
